@@ -1,1 +1,3 @@
-# miracle-message-client
+# 目标易消息客户端
+
+> 发送消息到目标易的客户端中。
